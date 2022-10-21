@@ -156,5 +156,3 @@ _ReSharper*/
 
 #Subversion files
 .svn 
-RPG_Clicker/Assets/Editor/Migration/com.ptc.vuforia.engine-10.10.2.tgz
-*.tgz
